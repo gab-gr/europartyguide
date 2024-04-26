@@ -1,0 +1,12 @@
+body {
+	background:rgba(250,250,250, 0.5);
+}
+
+.instrux-intent {
+	width:30%;
+	height:400px;
+	margin:/*nothing seems to do anything here*/;
+	float:right;
+	overflow:scroll;
+	/*i want to bump it down a little bit lower on the page but i think i need to do that by putting it out of the main, or bumping down the whole main but then that'd bump everything within the main which idk if i want that... hm, but yay look what i did today*/
+}
